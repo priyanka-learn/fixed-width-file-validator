@@ -24,6 +24,8 @@ Thumbs.db
 *.xlsx
 *.txt
 !requirements.txt
+!sample/*.xlsx
+!sample/*.txt
 
 # Validation output
 Validated_Files/
